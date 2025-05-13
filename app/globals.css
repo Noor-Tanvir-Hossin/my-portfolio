@@ -10,3 +10,22 @@ a{
 .font-ovo{
   font-family: 'Ovo', serif
 }
+
+.lightHover {
+  color: '#fcf4ff';
+}
+.darkHover {
+  color: '#2a004a';
+}
+.darkTheme {
+  color: '#11001F';
+}
+
+/* .shadow-black {
+  box-shadow: 4px 4px 0 #000;
+}
+
+.shadow-white {
+  box-shadow: 4px 4px 0 #fff;
+} */
+
